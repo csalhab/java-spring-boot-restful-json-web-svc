@@ -2,14 +2,14 @@
 
 This repository contains working code demonstrating a simple Spring Boot RESTful JSON Web Service.
 
-##Using the Sample Code
+## Using the Sample Code
 This example is completely independent and self-contained.
 
-##What the results look like:
+## What the results look like:
 
 ![Hitting the endpoints and their results](./images/info1.png)
 
-##Running the Samples From the Command Line
+## Running the Samples From the Command Line
 Once cloned, you can easily run this example directly from the command line with Gradle or Maven. 
 
 You can also build a single executable JAR file that contains all the necessary dependencies, classes, and resources 
